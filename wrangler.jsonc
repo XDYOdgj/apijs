@@ -1,5 +1,5 @@
 {
-  "name": "api-proxy",
+  "name": "api-proxy32",
   "compatibility_date": "2025-06-10",
   "main": "worker.js",
   "send_metrics": false
